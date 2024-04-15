@@ -2,7 +2,7 @@
 
 ### Hi 👋, I'm Satyam Chauhan
 
-👨‍💻 All of my projects are available at :- (https://github.com/satyamrajput97599)<br/>
+👨‍💻 All of my projects are available at :- [All Project Link](https://github.com/satyamrajput97599)<br/>
 📝 Studied [Computer Science] :- MCA<br/>
 💬currently learning :- HTML, CSS,BootStrap, PHP, JavaScript, Laravel, MYSQL Database,<br/>
 📫 How to reach me : [Email](thephoenixsatyam@gmail.com)<br/>
